@@ -1,0 +1,10 @@
+p{
+    display:none ;
+}
+h3{
+    display:none;
+}
+body{
+    background-image: url("santa.png");
+    background-size: cover;
+}
